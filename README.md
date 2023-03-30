@@ -15,3 +15,4 @@ heres a final render
 ![ult_scene1](https://user-images.githubusercontent.com/108925239/228695968-6b6ccc74-6cd2-4147-9ba2-ec6a52dda86e.png)
 
 <br>
+this would not have been made possible with out peter sherlleys "ray tracing in a weekend series"
